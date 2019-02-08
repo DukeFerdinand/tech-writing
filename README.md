@@ -4,5 +4,7 @@ The purpose of this repo is to provide an easy-to-access list of all my technica
 
 **The list (for now):**
 
+[My Medium Article on Learning Google Cloud Platform](https://medium.com/@douglasshooker/learning-googles-cloud-platform-25304b284731)
+
 [An Example Build Log With technical explanations](/example-build-log.md)
 
